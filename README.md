@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL here](https://your-solution-url.com)
-- Live Site URL: [URL here](https://your-live-site-url.com)
+- Solution URL: [URL here](https://github.com/Jithin-b-p/results-summary-component-main)
+- Live Site URL: [URL here](https://jithin-b-p.github.io/results-summary-component-main/)
 
 ## My process
 
